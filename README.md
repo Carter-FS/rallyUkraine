@@ -28,7 +28,7 @@ This site was designed to combat that, by combining several information feeds in
 
 ## License
 
-This site and the files herein are not licensed for use in any personal or commercial respect.
+Distributed under the MIT License. See `LICENSE` for more information.
 </br>
 </br>
 
