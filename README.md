@@ -1,36 +1,28 @@
-<a name="readme-top"></a>
+# rallyUkraine
 
-<br />
-<h3 align="center">rallyUkraine</h3>
+A website that gathered news, history and ways to help in one place during the first months of Russia's 2022 invasion of Ukraine. It reached about 1,500 unique visitors.
 
-  <p align="center">
-    An archived info consolidation website, made with the goal of centralising information regarding the recent Russian
-invasion of Ukraine to improve public understanding and accessibility. The site has reached 1.5K unique visitors.
-    <br />
-    <br />
-    <a href="https://rally-ukraine.vercel.app">View Site</a>
-  </p>
-</div>
+**Status:** Archived. The site is still online at [rally-ukraine.vercel.app](https://rally-ukraine.vercel.app).
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## What's on it
 
-Like many people, I couldn't believe it when I heard that Ukraine had been invaded by Russia, in the days and weeks following the breaking of the news information was scattered amongst several sources and became confusing.
+- News from AP, the BBC and the Kyiv Independent
+- Pages on the history of the conflict, on Zelenskyy, and on why the site exists
+- Charities and other ways to help, plus an FAQ
 
-This site was designed to combat that, by combining several information feeds into one location and simplifying/collating the key data I was able to create a site that (at least in some small degree) helped.
+## Development
 
-### Built With
+The site is static HTML styled with Tailwind CSS. To rebuild the stylesheet after changing `style/tailwind.css`:
 
-* HTML
-* TailwindCSS
+```sh
+npm install
+npm run build:css
+```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Open `index.html` in a browser to preview it.
 
-## License
+## Licence
 
-Distributed under the MIT License. See `LICENSE` for more information.
-</br>
-</br>
+Released under the MIT licence (see `LICENSE`).
 
-Godspeed.
 Слава Україні.
