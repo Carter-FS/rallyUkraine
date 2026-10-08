@@ -2,7 +2,7 @@
 
 A website that gathered news, history and ways to help in one place during the first months of Russia's 2022 invasion of Ukraine. It reached about 1,500 unique visitors.
 
-**Status:** Archived. The site is still online at [rally-ukraine.vercel.app](https://rally-ukraine.vercel.app).
+**Status:** Archived. The site is no longer online, but you can preview it locally (see below).
 
 ## What's on it
 
